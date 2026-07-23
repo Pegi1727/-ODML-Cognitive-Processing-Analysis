@@ -283,17 +283,7 @@ message: "If you use this repository, please cite it as below."
 version: "1.0.0"
 date-released: 2026-07-23
 -------------
-cff-version: 1.2.0
-title: "Output-Driven Multilingual Learning (ODML)"
-message: "If you use this repository or its datasets, please cite it as below."
-version: "1.0.0"
-date-released: 2026-07-23
-authors:
-  - family-names: Marikhi
-    given-names: Pegah
-    orcid: "https://orcid.org/0009-0000-6235-3010"
-    affiliation: "Independent Researcher"
-    email: pegah.merrikhiii@gmail.com
+
 repository-code: "https://github.com/your-username/odml"
 license: "MIT"
 
