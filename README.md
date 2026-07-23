@@ -243,6 +243,18 @@ This repository preserves the manuscript’s reported values as documented, but 
 Because of this, users should verify the results directly from the project data before treating the numbers as independently reproduced estimates.
 
 ---
+author:
+  - family-names: Marikhi
+    given-names: Pegah
+    orcid: (https://orcid.org/0009-0000-6235-3010)
+    affiliation: "Independent Researcher"
+    email: pegah.merrikhiii@gmail.com
+deniz.qizi@gmail.com
+repository-code: "https://github.com/your-username/odml"
+www.linkedin.com/in/dr-pegah-merrikhi-98a7aa105
+license: "MIT"
+
+
 
 ## Repository Structure
 ```text
@@ -265,13 +277,3 @@ title: "Output-Driven Multilingual Learning (ODML)"
 message: "If you use this repository, please cite it as below."
 version: "1.0.0"
 date-released: 2026-07-23
-authors:
-  - family-names: Marikhi
-    given-names: Pegah
-    orcid: (https://orcid.org/0009-0000-6235-3010)
-    affiliation: "Independent Researcher"
-    email: pegah.merrikhiii@gmail.com
-deniz.qizi@gmail.com
-repository-code: "https://github.com/your-username/odml"
-www.linkedin.com/in/dr-pegah-merrikhi-98a7aa105
-license: "MIT"
