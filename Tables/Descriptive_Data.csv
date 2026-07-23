@@ -1,0 +1,9 @@
+Table,Measure,Group,Pre-test_M,Pre-test_SD,Immediate_Post_M,Immediate_Post_SD,Delayed_Post_M,Delayed_Post_SD
+Table_2,Linguistic_Accuracy,Experimental,3.12,0.42,3.88,0.51,4.15,0.58
+Table_2,Linguistic_Accuracy,Control,3.08,0.45,3.32,0.48,3.45,0.52
+Table_4,Hesitation_Markers,Experimental,4.25,1.1,,,, 
+Table_4,Hesitation_Markers,Control,2.1,0.85,,,, 
+Table_4,Self_Repair,Experimental,3.8,0.95,,,, 
+Table_4,Self_Repair,Control,1.85,0.7,,,, 
+Table_5,NASA_TLX,Experimental,62.4,12.1,31.2,8.4,, 
+Table_5,NASA_TLX,Control,42.1,10.5,38.5,9.1,,
