@@ -260,3 +260,18 @@ ODML-Cognitive-Processing-Analysis/
 │   └── 02_lmm_analysis.R
 ├── README.md
 └── pasted-text.txt
+cff-version: 1.2.0
+title: "Output-Driven Multilingual Learning (ODML)"
+message: "If you use this repository, please cite it as below."
+version: "1.0.0"
+date-released: 2026-07-23
+authors:
+  - family-names: Marikhi
+    given-names: Pegah
+    orcid: (https://orcid.org/0009-0000-6235-3010)
+    affiliation: "Independent Researcher"
+    email: pegah.merrikhiii@gmail.com
+deniz.qizi@gmail.com
+repository-code: "https://github.com/your-username/odml"
+www.linkedin.com/in/dr-pegah-merrikhi-98a7aa105
+license: "MIT"
