@@ -1,0 +1,8 @@
+Outcome Measure,Fixed Effect,Beta,SE,t,CI_Lower,CI_Upper,p,Marginal_R2,Conditional_R2
+Linguistic Accuracy,Group x Time,0.65,0.11,5.91,0.43,0.87,0.001,0.31,0.67
+Linguistic Accuracy,Post-test (Exp),0.31,0.12,2.58,0.08,0.54,0.012,,
+Linguistic Accuracy,Delayed (Exp),0.58,0.13,4.46,0.32,0.84,0.001,,
+Speech Latency,Group x Time,-1.12,0.24,-4.67,-1.6,-0.64,0.001,0.28,0.63
+Speech Latency,Delayed (Exp),-0.84,0.2,-4.12,-1.24,-0.44,0.001,,
+NASA-TLX,Group x Phase,-1.25,0.41,-3.05,-2.07,-0.43,0.004,0.22,0.58
+NASA-TLX,Intervention (Exp),2.1,0.39,5.39,1.33,2.87,0.001,,
