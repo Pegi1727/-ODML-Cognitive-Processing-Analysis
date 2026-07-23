@@ -243,6 +243,11 @@ This repository preserves the manuscript’s reported values as documented, but 
 Because of this, users should verify the results directly from the project data before treating the numbers as independently reproduced estimates.
 
 ---
+## Data Tables
+- `Descriptive_Data.csv`: descriptive statistics by group and time
+- `LMM_Model_Summary.csv`: summarized mixed-effects model results
+
+------
 author:
   - family-names: Marikhi
     given-names: Pegah
